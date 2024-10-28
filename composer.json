@@ -1,0 +1,12 @@
+{
+    "name": "avify/avify-payments",
+    "require": {
+        "avify/avify-php-client": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Juan Escobar",
+            "email": "juan@avify.com"
+        }
+    ]
+}

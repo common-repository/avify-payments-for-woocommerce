@@ -1,0 +1,49 @@
+{
+    "packages": [
+        {
+            "name": "avify/avify-php-client",
+            "version": "1.0.1",
+            "version_normalized": "1.0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/avify-com/avify-php-client.git",
+                "reference": "3b8235d17de431cd3d885b2e7545db453379a04e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/avify-com/avify-php-client/zipball/3b8235d17de431cd3d885b2e7545db453379a04e",
+                "reference": "3b8235d17de431cd3d885b2e7545db453379a04e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6.0"
+            },
+            "time": "2022-02-24T00:35:26+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "App\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Avify",
+                    "email": "dev@avify.com"
+                }
+            ],
+            "description": "Avify PHP Client Library",
+            "support": {
+                "issues": "https://github.com/avify-com/avify-php-client/issues",
+                "source": "https://github.com/avify-com/avify-php-client/tree/1.0.1"
+            },
+            "install-path": "../avify/avify-php-client"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
